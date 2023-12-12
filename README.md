@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Eslam Ayman </h1>
+<h1 align="center">Hi 👋, I'm <i><b>Eslam Ayman</b></i> </h1>
 <h3 align="center"> CS Stdent | Competitive programmer | Mentor At ICPC Sohag community </h3>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
   
-<p align="middel"> <img src="https://komarev.com/ghpvc/?username=EslamAymann22&label=Profile%20views&color=ff69b4&style=plastic" alt="omarEls2yed" /> </p>
-<h1 align="middel">Connect with me:</h1>
+<p align="middel"> <img src="https://komarev.com/ghpvc/?username=EslamAymann22&label=Profile%20views&color=0DA06D&style=plastic" alt="Eslam Ayman" /> </p>
+<h1 align="middel">My accounts :</h1>
 <p align="middel">
 <a href="https://www.linkedin.com/in/eslam-aymann22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eslam Ayman" height="60" width="70" /></a>
 <a href="https://www.facebook.com/eslam.ayman.9809672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Eslam Ayman" height="60" width="70" /></a>
