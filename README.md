@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <i><b>Eslam Ayman</b></i> </h1>
 <h3 align="center"> CS Student | Competitive programmer | Mentor At ICPC Sohag community </h3>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif">
 </a>
   
 <p align="middel"> <img src="https://komarev.com/ghpvc/?username=EslamAymann22&label=Profile%20views&color=0DA06D&style=plastic" alt="Eslam Ayman" /> </p>
