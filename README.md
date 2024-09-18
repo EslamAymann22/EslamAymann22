@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm <i><b>Eslam Ayman</b></i> </h1>
-<h3 align="center"> CS Student | Competitive programmer | Mentor At ICPC Sohag community </h3>
+<h3 align="center">  Leader of ICPC Sohag Community | Competitive programmer | CS Student  </h3>
+<h3 align="center">  BackEnd .Net  </h3>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif">
 </a>
