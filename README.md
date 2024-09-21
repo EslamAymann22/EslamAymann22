@@ -2,7 +2,7 @@
 <h3 align="center">  Leader of ICPC Sohag Community | Competitive programmer | CS Student  </h3>
 <h3 align="center">  BackEnd .Net  </h3>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </a>
   
 <p align="middel"> <img src="https://komarev.com/ghpvc/?username=EslamAymann22&label=Profile%20views&color=0DA06D&style=plastic" alt="Eslam Ayman" /> </p>
