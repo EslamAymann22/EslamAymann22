@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f4b38649-09d4-473c-8091-5f2269241aa9)<h1 align="center">Hi 👋, I'm <i><b>Eslam Ayman</b></i> </h1>
+<h1 align="center">Hi 👋, I'm <i><b>Eslam Ayman</b></i> </h1>
 <h3 align="center">  Leader of ICPC Sohag Community | Competitive programmer | CS Student  </h3>
 <h3 align="center">  BackEnd .Net  </h3>
 <a target="_blank" align="center">
